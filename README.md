@@ -15,6 +15,10 @@ Users can search for German cities and view **current weather** and a **5-day fo
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
+
+**Using HTTPS:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/weather-app.git
+git clone https://github.com/galaktionovaolga/weather-app.git
+cd weather-app
+git clone git@github.com:galaktionovaolga/weather-app.git
 cd weather-app
