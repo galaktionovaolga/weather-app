@@ -1,7 +1,7 @@
 # Weather App (Germany)
 
 A simple modern weather interface for web users.  
-![screenshot of weather interface](<img width="613" height="915" alt="Image" src="https://github.com/user-attachments/assets/d8c89bb4-8b6a-405b-a7dc-1eca17fc0c6d" />)
+![screenshot of weather interface](https://github.com/user-attachments/assets/d8c89bb4-8b6a-405b-a7dc-1eca17fc0c6d)
 Users can search for German cities and view **current weather** and a **5-day forecast** using the free [Open-Meteo API](https://open-meteo.com/).
 
 ---
